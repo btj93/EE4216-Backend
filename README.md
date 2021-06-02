@@ -1,7 +1,7 @@
 # Web notes application RESTful API
 
 
-Java RESTful API using Spring Boot framework for saving notes for users.
+Java RESTful API using Spring Boot framework for saving/creating user notes featuring JWT tokens.
 
 Endpoints:<br>
 /signup<br>
