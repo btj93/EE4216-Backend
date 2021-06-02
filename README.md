@@ -1,4 +1,4 @@
-# EE4216-Backend
+# Web notes application RESTful API
 
 
 Java RESTful API using Spring Boot framework for saving notes for users.
